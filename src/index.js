@@ -19,7 +19,7 @@ if (typeof window !== 'undefined' && window.Vue) {
 
 
 
-export default {
+module.exports = {
   install,
   Alert,
   Alert2
