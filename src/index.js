@@ -24,3 +24,9 @@ export {
   Alert,
   Alert2
 };
+
+export default {
+  install,
+  Alert,
+  Alert2
+};
