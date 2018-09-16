@@ -1,7 +1,7 @@
 {
   "name": "yxy-web-core",
   "description": "A Vue.js project",
-  "version": "1.0.11",
+  "version": "1.0.13",
   "author": "lianpeng.liu <lianpeng.liu@drcuiyutao.com>",
   "license": "MIT",
   "private": false,
